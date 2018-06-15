@@ -1,6 +1,6 @@
 # Efficiency-of-Priority-Queues
 
-## @ Authors: Dhananjay Gupta (main author), Avani Kothari, Neetesh Gupta, Akshay Khandelwal
+## Authors: Dhananjay Gupta (main author), Avani Kothari, Neetesh Gupta, Akshay Khandelwal
 
 ### ABSTRACT
 
