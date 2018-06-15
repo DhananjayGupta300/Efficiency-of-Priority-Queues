@@ -1,8 +1,8 @@
 # Efficiency-of-Priority-Queues
 
-##@ Authors: Dhananjay Gupta (main author), Avani Kothari, Neetesh Gupta, Akshay Khandelwal
+## @ Authors: Dhananjay Gupta (main author), Avani Kothari, Neetesh Gupta, Akshay Khandelwal
 
-###ABSTRACT
+### ABSTRACT
 
 In this paper, we analyze and compare various available ways to implement priority queues. A Priority
 queue is an abstract data type which is like a regular queue, but where additionally each element has a
